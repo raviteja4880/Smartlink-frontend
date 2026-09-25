@@ -1,0 +1,29 @@
+# Environment Files
+.env
+.env.*
+*.env
+*.template
+
+# Secrets
+*.pem
+*.key
+*.crt
+
+# Logs
+logs/
+*.log
+
+# Dependencies
+node_modules/
+
+# Builds
+dist/
+build/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db

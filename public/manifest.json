@@ -1,0 +1,17 @@
+{
+  "short_name": "SmartLink AI",
+  "name": "SmartLink AI Link Management",
+  "description": "AI-powered URL shortener and webpage analytics dashboard.",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "type": "image/svg+xml",
+      "sizes": "any"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#F8FAFC",
+  "theme_color": "#3B82F6",
+  "display": "standalone",
+  "orientation": "portrait"
+}
